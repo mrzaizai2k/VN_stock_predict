@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+tsai[extras]
+tsai
+torch
+tensorflow
+seaborn
+matplotlib
+jupyter
+ipykernel
+openpyxl
+mediapipe
